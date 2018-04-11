@@ -1,0 +1,25 @@
+.paragrafy {
+    width: 100px;
+    height: 100px;
+    background-color: darkcyan;
+}
+
+#paragraf3 {
+    background-color: darkorange;
+}
+
+#paragraf6 {
+    background-color: chartreuse;
+}
+
+#paragraf8 {
+    background-color: darkorchid;
+}
+
+#paragraf2 {
+    opacity: 0.5
+}
+
+#paragraf7 {
+    opacity: 0.25
+}
